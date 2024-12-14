@@ -1,6 +1,3 @@
-Here’s a clean and structured **README** file for setting up Node Exporter on an Ubuntu server.
-
----
 
 # Node Exporter Setup on Ubuntu Server
 
